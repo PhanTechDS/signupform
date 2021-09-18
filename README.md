@@ -2,7 +2,7 @@
 
 This is a basic multi-level `sign up` or `registration` form.
 
-## LANGUAGES USED :
+## Languages Used
 
 - `HTML`(HyperText Markup Language) - 40.1%,
 - `CSS`(Cascading Style Sheets) - 35.4%,
