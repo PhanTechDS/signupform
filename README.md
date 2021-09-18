@@ -4,9 +4,9 @@ This is a basic multi-level sign up or registration form made using HTML, CSS an
 
 ## LANGUAGES USED :
 
--HTML(HyperText Markup Language) - 40.1%
--CSS(Cascading Style Sheets) - 35.4%
--JS(JavaScript) - 24.5%
+- HTML(HyperText Markup Language) - 40.1%,
+- CSS(Cascading Style Sheets) - 35.4%,
+- JS(JavaScript) - 24.5%
 
 ## Live Demo
 
